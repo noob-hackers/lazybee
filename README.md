@@ -12,7 +12,7 @@ Lazybee tool is a python based script from which you can generate random wordlis
 [![License: MIT](https://img.shields.io/github/license/noob-hackers/ipdrone.svg)](https://github.com/noob-hackers/ipdrone)
 [![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#p-gen)
 
-![photo_2019-04-15_16-15-50](https://user-images.githubusercontent.com/49580304/56127910-db942700-5f9b-11e9-8450-a4fcd210cad7.jpg)
+![photo_2019-04-15_16-15-59](https://user-images.githubusercontent.com/49580304/56128489-60cc0b80-5f9d-11e9-820e-031c8f3e1afc.jpg)
 
 ### lazybee is available for
 
