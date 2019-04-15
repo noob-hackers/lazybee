@@ -1,0 +1,2 @@
+# lazybee
+simple tool
