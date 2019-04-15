@@ -58,7 +58,8 @@ $ ls
 ```
 $ python2 lazybee.py
 ```
-ex:- Enter The Length Of The Password: 8
+ex:- Enter the number of characters: 8
+     Name your wordlist wit (.txt) extensions: pass.txt
 
 WOW... you just created wordlist in hackers way.
 
