@@ -65,7 +65,7 @@ Name your wordlist wit (.txt) extensions: pass.txt
 WOW... you just created wordlist in hackers way.
 
 ### Subscribe our channel on youtube
-https://www.youtube.com/noobhackers
+https://rebrand.ly/noobhackers
 
 ### Chekout our webite 
 https://www.noob-hackers.com
