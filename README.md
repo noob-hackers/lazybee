@@ -1,75 +1,104 @@
-<h1 align="center">lazybee v1.0</h1>
 <p align="center">
-      Lazybee wordlist generator tool for Termux 
+<a href="https://bit.ly/338z4Gu"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://bit.ly/338z4Gu"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Lazybee-green.svg"></a>
+<a href="https://bit.ly/338z4Gu"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
+<a href="https://bit.ly/338z4Gu"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+</p>
+<p align="center">
+<a href="https://bit.ly/338z4Gu"><img title="Hacklock" src="https://user-images.githubusercontent.com/49580304/96669639-7a78ac80-1312-11eb-8bf0-be55417207ea.jpg"></a>
+</p>
+<p align="center">
+<a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+</p>
+<p align="center">
+<a href="https://github.com/noob-hackers"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
+<a href="https://github.com/noob-hackers"><img title="Followers" src="https://img.shields.io/github/followers/noob-hackers?color=blue&style=flat-square"></a>
+<a href="https://github.com/noob-hackers"><img title="Stars" src="https://img.shields.io/github/stars/noob-hackers/hacklock?color=red&style=flat-square"></a>
+<a href="https://github.com/noob-hackers"><img title="Forks" src="https://img.shields.io/github/forks/noob-hackers/hacklock?color=red&style=flat-square"></a>
+<a href="https://github.com/noob-hackers"><img title="Watching" src="https://img.shields.io/github/watchers/noob-hackers/hacklock?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/noob-hackers"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
-## About lazybee tool :
+## ABOUT TOOL :
 
 Lazybee tool is a python based script from which you can generate random wordlist for brutefocre attacks. This tool has a unique features like wordlist generating time calculation and direct .txt saving in current directory. This tool works on both rooted Android device and Non-rooted Android device.
 
-[![Build Status](https://img.shields.io/github/stars/noob-hackers/ipdrone.svg)](https://github.com/noob-hackers/ipdrone)
-[![Build Status](https://img.shields.io/github/forks/noob-hackers/ipdrone.svg)](https://github.com/noob-hackers/ipdrone)
-[![License: MIT](https://img.shields.io/github/license/noob-hackers/ipdrone.svg)](https://github.com/noob-hackers/ipdrone)
-[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#p-gen)
-
-![photo_2019-04-15_16-15-59](https://user-images.githubusercontent.com/49580304/56128489-60cc0b80-5f9d-11e9-820e-031c8f3e1afc.jpg)
-
-### lazybee is available for
+## AVAILABLE ON :
 
 * Termux
 
-### Installation and usage guide
+### TESTED ON :
+
+* Termux
+
+### REQUIREMENTS :
+* internet
+* python
+* storage 400 MB
+
+## FEATURES :
+* [+] Real wordlist for tools !
+* [+] Updated maintainence !
+* [+] Best for creating lists
+* [+] Easy for Beginners !
+
+## INSTALLATION [Termux] :
+
+* `apt-get update -y`
+* `apt-get upgrade -y`
+* `pkg install python -y`
+* `pkg install python2 -y`
+* `pkg install git -y`
+* `pip install lolcat`
+* `git clone https://github.com/noob-hackers/lazybee`
+* `cd $HOME`
+* `ls`
+* `cd lazybee`
+* `ls`
+* `python2 lazybee.py`
+
 ```
-$ apt-get update -y
-```
-```
-$ apt-get upgrade -y
-```
-```
-$ pkg install python -y 
-```
-```
-$ pkg install python2 -y
-```
-```
-$ pkg install git -y
-```
-```
-$ pip install requests
-```
-```
-$ pip install random
-```
-```
-$ ls
-```
-```
-$ git clone https://github.com/noob-hackers/lazybee
-```
-```
-$ ls
-```
-```
-$ cd lazybee
-```
-```
-$ ls
-```
-```
-$ python2 lazybee.py
-```
-ex:- Enter the number of characters: 8
+[+]--ex:- Enter the number of characters: 8
 
 Name your wordlist wit (.txt) extensions: pass.txt
+```
+## USAGE OPTIONS [Termux] :
 
-WOW... you just created wordlist in hackers way.
+__GENERATE LIST__ :
+- From this option you can generate instantly pass list.
 
-### Subscribe our channel on youtube
-https://rebrand.ly/noobhackers
+## SCREEN SHOTS [Termux]
 
-### Chekout our webite 
-https://www.noob-hackers.com
-     
-### Warning
+<br>
+<p align="center">
+<img width="50%" src="https://user-images.githubusercontent.com/49580304/96669666-86646e80-1312-11eb-9b72-09dcf6c9f984.jpg"/>
+<img width="45%" src="https://user-images.githubusercontent.com/49580304/96669663-85334180-1312-11eb-819f-0fd2db2c4cb0.jpg"/>
+</p>
 
+## WATCH VIDEO [Termux]
+
+[![des](https://user-images.githubusercontent.com/49580304/96466915-3c2ea080-11df-11eb-8328-100ca165c12c.jpg)](https://bit.ly/338z4Gu)
+
+## CONNECT WITH US :
+
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/nakeeb.nitro.35)
+<a href="https://rebrand.ly/githubprof"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://rebrand.ly/insgrm)
+[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://rebrand.ly/noobwebs)
+[![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://rebrand.ly/linkedinprof)
+[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://rebrand.ly/fsbpage)
+[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://rebrand.ly/telegramchnl)
+[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://rebrand.ly/hckrgroups)
+<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+
+## BUY ME A COFFEE :
+
+<p align="center">
+<a href="https://rebrand.ly/BuyCoffee"><img title="Noob Hackers" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
+</p>
+
+## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
